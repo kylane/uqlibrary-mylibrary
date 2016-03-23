@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Getting Started",
+    "description": "Getting Started",
+    "link": "http://www.library.uq.edu.au/training/index.phtml#Getting Started",
+    "items": [
+      {
+        "name": "Library 101",
+        "description": "Library 101",
+        "link": "http://www.library.uq.edu.au/training/index.phtml#TAL038"
+      }
+    ]
+  },
+  {
+    "name": "EndNote",
+    "description": "EndNote",
+    "link": "http://www.library.uq.edu.au/training/index.phtml#EndNote",
+    "items": [
+      {
+        "name": "EndNote",
+        "description": "EndNote",
+        "link": "http://www.library.uq.edu.au/training/index.phtml#END13"
+      }
+    ]
+  },
+  {
+    "name": "Other UQ Classes",
+    "description": "Other UQ Classes",
+    "link": "",
+    "items": [
+      {
+        "name": "UQ Graduate School Skills Training",
+        "description": "UQ Graduate School Skills Training",
+        "link": "http://www.uq.edu.au/grad-school/events-skills-training-students"
+      },
+      {
+        "name": "Student Services Learning",
+        "description": "Student Services Learning",
+        "link": "http://www.uq.edu.au/student-services/Learning"
+      }
+    ]
+  }
+]
