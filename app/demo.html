@@ -155,6 +155,11 @@
 
     document.cookie="UQLMockData=enabled";
     document.cookie="UQLMockData-PType=17";
+
+    window.addEventListener('WebComponentsReady', function() {
+      document.querySelector('uqlibrary-papercut')._paperCut = "error";
+    });
+
   }());
 </script>
 
